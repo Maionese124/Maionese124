@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Maionese124
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..AGRO❤️❤️👽👽😎
+- Oi 
+-_😎meu nome e Kevin 👽
+-meu e-mail é kevin.stelter@escola.pr.gov.br
+Tmj😎👽🇧🇷
 
 <!---
 Maionese124/Maionese124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
